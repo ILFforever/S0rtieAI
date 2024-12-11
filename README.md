@@ -14,6 +14,10 @@ Python based GUI application for sorting and assessing image focus using Yolo11 
 - iii Wait
 - iii Photos are automatically moved (or copied) to the specified folder
 
+**Set up Tips**
+-_the exe, default.png and default.pt should be in root folder_
+- Preferably should have its own directory since the program will create a .log and .ini file   
+
 (Additional settings can be found in the Options tab)
 (Needs Default.pt in root folder as base model unless alternative specified in options)
 _Shipped with Default model version 3 but will probably updated later on._

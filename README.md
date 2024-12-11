@@ -6,7 +6,7 @@ Python based GUI application for sorting and assessing image focus using Yolo11 
 - Waveform Image focus detection
 - Bulk Image processing
 - Post sort summary with Graph and Preview
-- Ability to upload your own YOLO V11 models (.pt) to detect subjects
+- Ability to upload your own YOLO V11 models (.pt) to detect custom subjects (You will need to update the scoring algorithm)
 
 
 **Instructions**
@@ -17,4 +17,5 @@ Python based GUI application for sorting and assessing image focus using Yolo11 
 
 (Additional settings can be found in the Options tab)
 (Needs Default.pt in root folder as base model unless alternative specified in options)
+(Default.img in root folder is not required but the program will return Path not found on start-up)
 _Shipped with Default model version 3 but will probably updated later on._

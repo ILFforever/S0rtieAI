@@ -36,4 +36,4 @@ _Shipped with Default model version 3 but will probably updated later on._
 
 ![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/summary%20(2).png "Summary2")
 
-(This is my attempt to build a somewhat competent CV for Chulalongkorn University 🙏😭)
+(This is my attempt to build a somewhat competent CV for Chulalongkorn University CEDT Internship program 🙏😭)

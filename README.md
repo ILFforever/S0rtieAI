@@ -28,6 +28,6 @@ _Shipped with Default model version 3 but will probably updated later on._
 
 ![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/options.png "Options")
 
-![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/options.png "Summary")
+![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/summary%20(1).png "Summary")
 
-![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/options.png "Summary2")
+![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/summary%20(2).png "Summary2")

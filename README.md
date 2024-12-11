@@ -24,7 +24,7 @@ _Shipped with Default model version 3 but will probably updated later on._
 
 ![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/startscr.png "Start Screen")
 
-![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/sample_detect.png "Sample_detect")
+![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/sample_detect2.png "Sample_detect")
 
 ![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/options.png "Options")
 

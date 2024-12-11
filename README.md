@@ -1,14 +1,14 @@
 # SortieAI
 Python based GUI application for sorting and assessing image focus using Yolo11 object detection and PyWavelets wave transform.
 ![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/startscr.png "Start Screen")
-
+![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/sample_detect.png "Sample_detect")
 **Features Implemented**
 - Human and animal subject detection
 - Waveform Image focus detection
 - Bulk Image processing
 - Post sort summary with Graph and Preview
 - Ability to upload your own YOLO V11 models (.pt) to detect custom subjects (You will need to update the scoring algorithm)
-
+![alt text](https://github.com/ILFforever/S0rtieAI/blob/main/image/options.png "Options")
 
 **Instructions**
 - i Select Photos you wish to sort

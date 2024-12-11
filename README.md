@@ -17,5 +17,6 @@ Python based GUI application for sorting and assessing image focus using Yolo11 
 
 (Additional settings can be found in the Options tab)
 (Needs Default.pt in root folder as base model unless alternative specified in options)
-(Default.img in root folder is not required but the program will return Path not found on start-up)
 _Shipped with Default model version 3 but will probably updated later on._
+(Default.img in root folder is not required but the program will return Path not found on start-up)
+

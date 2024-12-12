@@ -39,6 +39,10 @@ _Shipped with Default model version 3 but will probably updated later on._
 
 > **(This is my attempt to build a somewhat competent CV for Chulalongkorn University CEDT Internship program 🙏😭)**
 
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
 ## Contact
 
 For inquiries or collaboration, please contact:
